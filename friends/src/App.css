@@ -2,9 +2,40 @@
   text-align: center;
 }
 
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.link{
+  position: absolute;;
+  top: 20%;
+  right: 30%;
+
+}
+
+.Nav{
+display: flex;
+text-decoration: none;
+position: relative;
+left: 10px;
+}
+h4{
+  position: relative;
+left: 40%;
+
+}
+h2{
+  margin: 10px;
+  text-decoration: wavy;
+  color: white;
+  background-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
